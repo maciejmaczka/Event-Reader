@@ -1,0 +1,7 @@
+﻿0x01 - Startup - General Error - Last resort
+0x02 - Data Manipulator - Writing to csv
+0x03 - Proc class - Reading performance
+0x04 - Proc class - Reading performance
+0x05 - Event Log - Read log types
+0x06 - Event Log Class - Read all logs
+0x07 -         -||-
